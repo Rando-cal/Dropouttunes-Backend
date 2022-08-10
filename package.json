@@ -1,0 +1,26 @@
+{
+  "name": "dropouttunes-api",
+  "version": "1.0.0",
+  "description": "A small API server dealing with tracks",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "seed": "node ./app/models/seed.js"
+  },
+  "author": "Lance Nguyen",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "method-override": "^3.0.0",
+    "mongodb": "^4.2.1",
+    "mongoose": "^6.1.1",
+    "passport": "^0.5.0",
+    "passport-http-bearer": "^1.0.1"
+  }
+}
