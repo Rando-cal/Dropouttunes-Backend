@@ -93,8 +93,7 @@
 ![ERD](public/ERD/ERD.png)
 
 ## Roles
-Randy D'Abbraccio & Gonzalo Quiroqa - Frontend Client
+Randy D'Abbraccio - Frontend & Manager
 Lance Nguyen - Backend API
-Ryan May - Team Manager
 =======
  
