@@ -94,6 +94,7 @@
 
 ## Roles
 Randy D'Abbraccio - Frontend & Manager
+
 Lance Nguyen - Backend API
 =======
  
